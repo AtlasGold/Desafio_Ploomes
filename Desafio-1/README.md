@@ -1,4 +1,5 @@
-´´´
+```javascript
+
 function pageCount(n, p) {
     
     if (p == 1 || p == n ) return 0; 
@@ -18,4 +19,6 @@ function pageCount(n, p) {
     return Math.min( rigthToLeft, leftToRigth ); 
      
 }
-´´´
+
+```
+![alt text](image.png)
